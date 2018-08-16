@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorLink">@color/linkTextColor</item>
+    </style>
+    <style name="ListText" parent="Theme.AppCompat">
+        <item name="android:textColorHighlight">@color/listTextColorHighlight</item>
+    </style>
+
+</resources>
